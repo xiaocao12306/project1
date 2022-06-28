@@ -1,0 +1,57 @@
+/* 公共样式表 */
+.text-sm{
+	font-size:12px;
+}
+.text-df{
+	font-size:14px;
+}
+.text-xl{
+	font-size:32px;
+}
+.text-white{
+	color:#fff;
+}
+.text-yellow {
+	color: #fcc419;
+}
+.bg-primary{
+	background: #126156;
+}
+.bg-white{
+	background:white;
+}
+.text-primary{
+	color: #126156;
+}
+.text-light{
+	color: #97bab4;
+}
+
+.clear{
+	clear: both;
+}
+
+/* 阴影 */
+.shadow-sm{
+	box-shadow:  0 1px 2px 0 rgba(0, 0, 0, 0.05);;
+}
+.shadow{
+	box-shadow: 0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06);
+}
+.shadow-md{
+	box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.12);
+}
+.radius{
+	border-radius:10px;
+}
+.text-lg{
+	font-size:48px;
+	font-weight: bold;
+	margin: 10px;
+}
+.margin-top{
+	margin-top:20px;
+}
+.padding{
+	padding:20px;
+}
